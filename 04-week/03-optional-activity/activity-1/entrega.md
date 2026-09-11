@@ -128,7 +128,7 @@ En este caso usamos la distancia Manhattan. Esto ayuda a que A* no tenga que rev
 
 4. Código principal
    
-El archivo `eight_puzzle.py` contiene los tres algoritmos y una función para realizar las pruebas.
+El archivo `HECTOR_RAMIREZ.py` contiene los tres algoritmos y una función para realizar las pruebas.
 La idea básica de A* es:
 
 ```text
