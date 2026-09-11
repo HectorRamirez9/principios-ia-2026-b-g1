@@ -128,7 +128,7 @@ En este caso usamos la distancia Manhattan. Esto ayuda a que A* no tenga que rev
 
 4. Código principal
    
-El archivo `HECTOR_RAMIREZ.py` contiene los tres algoritmos y una función para realizar las pruebas.
+El archivo `Hector_Ramirez_Murcia.py` contiene los tres algoritmos y una función para realizar las pruebas.
 La idea básica de A* es:
 
 ```text
@@ -258,7 +258,7 @@ Desde la terminal se puede ejecutar:
 
 ```bash
 
-Python eight_puzzle.py
+Python Hector_Ramirez_Murcia.py
 
 ```
 
